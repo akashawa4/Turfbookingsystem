@@ -97,10 +97,10 @@ Thank you for choosing BookMyTurf!
         {/* Success Header */}
         <div className="text-center mb-8">
           <div className="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-            <CheckCircle className="w-10 h-10 text-green-600" />
+            <CheckCircle className="w-12 h-12 text-green-600" />
           </div>
           <h1 className="text-3xl font-bold text-gray-900 mb-2">Booking Confirmed!</h1>
-          <p className="text-gray-600">Your turf booking has been successfully confirmed</p>
+          <p className="text-lg text-gray-600">Thank you for choosing Galli2Ground!</p>
         </div>
 
         {/* Booking Details Card */}
